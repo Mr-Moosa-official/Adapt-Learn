@@ -3,50 +3,80 @@
     {
       "id": "course-math",
       "description": "A person writing mathematical formulas on a chalkboard.",
-      "imageUrl": "https://images.unsplash.com/photo-1758685734640-5a539c096aed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYXRoZW1hdGljcyUyMGNoYWxrYm9hcmR8ZW58MHx8fHwxNzY5OTc3NDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1552374196-c4e7ccfb6e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXRoJTIwdGVhY2hlcnxlbnwwfHx8fDE3NzAwMDAwODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mathematics chalkboard"
     },
     {
       "id": "course-history",
       "description": "An ancient scroll open on a wooden table with a quill pen.",
-      "imageUrl": "https://images.unsplash.com/photo-1580501170888-80668882ca0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoaXN0b3J5JTIwc2Nyb2xsfGVufDB8fHx8MTc2OTkzMDg2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1629733929428-5e52579d42c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoaXN0b3J5JTIwYm9va3N8ZW58MHx8fHwxNzcwMDAwMTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "history scroll"
     },
     {
       "id": "course-science",
       "description": "A collection of beakers and flasks with colorful liquids in a science lab.",
-      "imageUrl": "https://images.unsplash.com/photo-1634872554756-18534b7ffe30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2llbmNlJTIwbGFib3JhdG9yeXxlbnwwfHx8fDE3Njk5NjY4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1532187644165-ba22fb5d8c38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwbGFifGVufDB8fHx8MTc3MDAwMDE4NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "science laboratory"
     },
     {
       "id": "course-literature",
       "description": "A stack of classic books on a library shelf.",
-      "imageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxib29rcyUyMGxpYnJhcnl8ZW58MHx8fHwxNzY5OTU0ODI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1524995767968-7b2a7f5b6b15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaXRlcmF0dXJlJTIwYm9va3N8ZW58MHx8fHwxNzcwMDAwMjE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "books library"
     },
     {
       "id": "course-art",
       "description": "A painter's palette with various colors and brushes.",
-      "imageUrl": "https://images.unsplash.com/photo-1769808557819-230d6723bcb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhcnQlMjBwYWxldHRlfGVufDB8fHx8MTc2OTk5OTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnQlMjBzdHVkaW98ZW58MHx8fHwxNzcwMDAwMjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "art palette"
     },
     {
       "id": "course-music",
       "description": "Close-up of piano keys with sheet music in the background.",
-      "imageUrl": "https://images.unsplash.com/photo-1717294977579-a38de1bd6564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwaWFubyUyMG11c2ljfGVufDB8fHx8MTc2OTk5OTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1520442053189-688a5c3291ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXNpYyUyMHN0dWRpb3xlbnwwfHx8fDE3NzAwMDAyODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "piano music"
     },
     {
       "id": "course-code",
       "description": "A computer screen showing lines of programming code.",
-      "imageUrl": "https://images.unsplash.com/photo-1652939617330-e5b59457c496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwcm9ncmFtbWluZyUyMGNvZGV8ZW58MHx8fHwxNzY5OTE2NzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwcm9ncmFtbWluZ3xlbnwwfHx8fDE3NzAwMDAzMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "programming code"
     },
     {
       "id": "course-astro",
       "description": "A colorful nebula in deep space with stars.",
-      "imageUrl": "https://images.unsplash.com/photo-1530253051357-e0b79ee40459?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxnYWxheHklMjBuZWJ1bGF8ZW58MHx8fHwxNzY5OTA2NjY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1614728263952-84ea256ec6fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhc3Ryb25vbXl8ZW58MHx8fHwxNzcwMDAwMzQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "galaxy nebula"
+    },
+    {
+      "id": "avatar-1",
+      "description": "Avatar of a smiling woman.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135677-ed85c46d8201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwYXZhdGFyfGVufDB8fHx8MTc2OTg5NjAyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Avatar of a man with glasses.",
+      "imageUrl": "https://images.unsplash.com/photo-1594616838951-c155f8d978a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBhdmF0YXJ8ZW58MHx8fHwxNzY5ODk2MDIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Avatar of a person with short hair.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135645-005e250ff210?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBhdmF0YXJ8ZW58MHx8fHwxNzY5ODk2MDIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "avatar-4",
+      "description": "Avatar of a woman with long hair.",
+      "imageUrl": "https://images.unsplash.com/photo-1750535135677-ed85c46d8201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwYXZhdGFyfGVufDB8fHx8MTc2OTg5NjAyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "about-us-hero",
+      "description": "A diverse team collaborating in a modern office.",
+      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NzAwMDA1NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
     }
   ]
 }

@@ -10,7 +10,7 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { Moon, Sun, Contrast, CaseSensitive as TextSizeIcon, Settings } from "lucide-react";
+import { Moon, Sun, Contrast, Type as TextSizeIcon, Settings } from "lucide-react";
 
 export function SettingsControls() {
   const { theme, setTheme, textSize, setTextSize } = usePreferences();
@@ -19,7 +19,7 @@ export function SettingsControls() {
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
         <Button variant="ghost" size="icon" aria-label="Accessibility Settings">
-          <Settings />
+          <Settings className="h-5 w-5" />
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">

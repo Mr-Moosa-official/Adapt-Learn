@@ -6,6 +6,7 @@ import {
 } from "@/components/ui/sidebar";
 import { AppSidebarNav } from "./sidebar-nav";
 import { AppHeader } from "./header";
+import { AppFooter } from "./footer";
 
 export function AppLayout({ children }: { children: ReactNode }) {
   return (
@@ -15,7 +16,8 @@ export function AppLayout({ children }: { children: ReactNode }) {
       </Sidebar>
       <SidebarInset>
         <AppHeader />
-        {children}
+        <main>{children}</main>
+        <AppFooter />
       </SidebarInset>
     </SidebarProvider>
   );
