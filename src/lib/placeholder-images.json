@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "course-math",
+      "description": "A person writing mathematical formulas on a chalkboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1758685734640-5a539c096aed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYXRoZW1hdGljcyUyMGNoYWxrYm9hcmR8ZW58MHx8fHwxNzY5OTc3NDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mathematics chalkboard"
+    },
+    {
+      "id": "course-history",
+      "description": "An ancient scroll open on a wooden table with a quill pen.",
+      "imageUrl": "https://images.unsplash.com/photo-1580501170888-80668882ca0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoaXN0b3J5JTIwc2Nyb2xsfGVufDB8fHx8MTc2OTkzMDg2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "history scroll"
+    },
+    {
+      "id": "course-science",
+      "description": "A collection of beakers and flasks with colorful liquids in a science lab.",
+      "imageUrl": "https://images.unsplash.com/photo-1634872554756-18534b7ffe30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2llbmNlJTIwbGFib3JhdG9yeXxlbnwwfHx8fDE3Njk5NjY4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science laboratory"
+    },
+    {
+      "id": "course-literature",
+      "description": "A stack of classic books on a library shelf.",
+      "imageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxib29rcyUyMGxpYnJhcnl8ZW58MHx8fHwxNzY5OTU0ODI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "books library"
+    },
+    {
+      "id": "course-art",
+      "description": "A painter's palette with various colors and brushes.",
+      "imageUrl": "https://images.unsplash.com/photo-1769808557819-230d6723bcb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhcnQlMjBwYWxldHRlfGVufDB8fHx8MTc2OTk5OTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art palette"
+    },
+    {
+      "id": "course-music",
+      "description": "Close-up of piano keys with sheet music in the background.",
+      "imageUrl": "https://images.unsplash.com/photo-1717294977579-a38de1bd6564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwaWFubyUyMG11c2ljfGVufDB8fHx8MTc2OTk5OTMzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "piano music"
+    },
+    {
+      "id": "course-code",
+      "description": "A computer screen showing lines of programming code.",
+      "imageUrl": "https://images.unsplash.com/photo-1652939617330-e5b59457c496?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwcm9ncmFtbWluZyUyMGNvZGV8ZW58MHx8fHwxNzY5OTE2NzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "programming code"
+    },
+    {
+      "id": "course-astro",
+      "description": "A colorful nebula in deep space with stars.",
+      "imageUrl": "https://images.unsplash.com/photo-1530253051357-e0b79ee40459?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxnYWxheHklMjBuZWJ1bGF8ZW58MHx8fHwxNzY5OTA2NjY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "galaxy nebula"
+    }
+  ]
 }
