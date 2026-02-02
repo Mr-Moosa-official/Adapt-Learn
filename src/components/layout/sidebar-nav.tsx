@@ -38,14 +38,12 @@ export function AppSidebarNav() {
         <SidebarMenu>
           {navItems.map((item) => (
             <SidebarMenuItem key={item.href}>
-              <Link href={item.href} passHref legacyBehavior>
-                <SidebarMenuButton asChild isActive={pathname === item.href} tooltip={item.tooltip}>
-                  <a>
-                    {item.icon}
-                    <span>{item.label}</span>
-                  </a>
-                </SidebarMenuButton>
-              </Link>
+              <SidebarMenuButton asChild isActive={pathname === item.href} tooltip={item.tooltip}>
+                <Link href={item.href}>
+                  {item.icon}
+                  <span>{item.label}</span>
+                </Link>
+              </SidebarMenuButton>
             </SidebarMenuItem>
           ))}
         </SidebarMenu>
@@ -53,20 +51,20 @@ export function AppSidebarNav() {
       <SidebarFooter>
         <SidebarMenu>
           <SidebarMenuItem>
-             <Link href="#" passHref legacyBehavior>
-                <SidebarMenuButton href="#" tooltip="Settings">
-                  <Settings />
-                  <span>Settings</span>
-                </SidebarMenuButton>
+            <SidebarMenuButton asChild tooltip="Settings">
+              <Link href="#">
+                <Settings />
+                <span>Settings</span>
               </Link>
+            </SidebarMenuButton>
           </SidebarMenuItem>
           <SidebarMenuItem>
-            <Link href="#" passHref legacyBehavior>
-              <SidebarMenuButton href="#" tooltip="Help & Support">
+            <SidebarMenuButton asChild tooltip="Help & Support">
+              <Link href="#">
                 <HelpCircle />
                 <span>Help & Support</span>
-              </SidebarMenuButton>
-            </Link>
+              </Link>
+            </SidebarMenuButton>
           </SidebarMenuItem>
         </SidebarMenu>
       </SidebarFooter>
