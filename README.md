@@ -13,7 +13,7 @@ Customize text size and readability
 
 Use high-contrast themes for visual comfort
 
-Access AI-generated captions and transcripts
+Access AI-generated captions and  transcripts
 
 Navigate seamlessly with screen readers
 
